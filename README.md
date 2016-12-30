@@ -31,13 +31,10 @@ npm test
 ```
 
 # Todos
-create a template for vue-cli
-[SCSS](https://github.com/vuejs/vue-loader/issues/363)
-Twitter Bootstrap
-controlling title
-write some unit-tests
-configure ES lint
-.editorconfig
-[Slots](https://vuejs.org/v2/guide/components.html#Content-Distribution-with-Slots)
-offline-first
-[Webpack](https://vuejs-templates.github.io/webpack/)
+* write some unit-tests
+* configure ES lint
+* .editorconfig
+* [Slots](https://vuejs.org/v2/guide/components.html#Content-Distribution-with-Slots)
+* vue dev tools, such as time travel debugging
+* offline-first
+* [Webpack](https://vuejs-templates.github.io/webpack/)
